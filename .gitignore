@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# example
+app-example/
+
 # Expo
 .expo/
 dist/
